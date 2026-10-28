@@ -1,0 +1,10 @@
+{
+  "description": "Discover events, food, drinks, and nightlife at Kilowatts Lifestyle Diepsloot, explore venue details, and send a table booking enquiry.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
